@@ -1,0 +1,4 @@
+.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover {
+background-color: #0e76bc;
+color: #ffffff;
+}
